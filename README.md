@@ -1,14 +1,12 @@
-# V's Landscaping and Junk Removal LLC - sample preview
+# V's Landscaping and Junk Removal LLC - independent sample
 
-Independent concept sample by J M Enterprise. This is not the business's official website and does not imply endorsement. The page is marked noindex/nofollow, with robots exclusion and visible sample disclaimers.
+A concept website by J M Enterprise, not the business's official website and not an endorsement by the business. The page has a visible sample disclosure, noindex/nofollow metadata, and robots exclusion.
 
-Built in Freebuff using MiMo v2.6 Flash Slow (1x). Post-export QA improved responsive image height, desktop headline fit, footer keyboard focus, and mobile call-bar visibility when other contact actions are on screen.
+Built in Freebuff using MiMo v2.6 Flash Slow (1x). Contact and service details were checked against the public [Facebook About page](https://www.facebook.com/Vshomeimprovement/about). Customer review excerpts are attributed and linked on the page. Stock photography does not show this business's work.
 
-Business facts and contact details were checked against the public [Facebook About page](https://www.facebook.com/Vshomeimprovement/about) and current Google listing. Google review excerpts are attributed on the page. No prices, guarantees or unverified operating hours appear in the sample.
+## Free Unsplash photography
 
-The images are stock illustrations, not this business's work. Both are free under the Unsplash License and were inspected at full original resolution:
+- Garden: [Kier in Sight Archives](https://unsplash.com/photos/pink-and-yellow-flowers-near-green-trees-during-daytime-oqxnhdPtZ9U).
+- Wheelbarrow and garden debris: [Al Butler](https://unsplash.com/photos/a-weathered-green-wheelbarrow-rests-among-garden-debris-kZPRH1EM8SA).
 
-- [Garden photo by Kier in Sight Archives](https://unsplash.com/photos/pink-and-yellow-flowers-near-green-trees-during-daytime-oqxnhdPtZ9U)
-- [Wheelbarrow photo by Al Butler](https://unsplash.com/photos/a-weathered-green-wheelbarrow-rests-among-garden-debris-kZPRH1EM8SA)
-
-Plain static HTML, CSS and JavaScript. No backend, contact form, analytics or payment processing.
+These are the same approved photographs retained for this business's revised concept, not reused for another business.
